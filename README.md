@@ -11,7 +11,7 @@
 
 In this project, a mobile web app will be developed to obtain location information from a mobile sensor module and confirm that the user is in a specific location. The funding will be given if the provided location and the required location are compatible. The Solidity programming language will be used in this project to create the blockchain concept utilizing an Etherium smart contract. The user can also view the status of his or her fund on the front end.
 
-![image](https://www.marca.com/en/technology/2022/03/20/6236f6a2e2704eb4358b456c.html)
+![image]([https://www.marca.com/en/technology/2022/03/20/6236f6a2e2704eb4358b456c.html](https://phantom-marca.unidadeditorial.es/59644477365716512f144f6f85f31af9/resize/1320/f/jpg/assets/multimedia/imagenes/2022/03/20/16477692211339.jpg))
 
 
 ## Introduction
