@@ -8,6 +8,7 @@
 
 - [Objective](#objective)
 - [Folders](#folders)
+- [Requirments)(#requirments)
 - [Install](#install)
 - [Author](#author)
 
@@ -25,6 +26,14 @@ Front end code for web and mobile dApp, using react and react-native.
 The testing for the smart contract is done using chai, chai is one of the smart contract testing mechanisms out there. Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework. I used it to create a unit testing for the function I put on the above smart contract. The testing was done on an environment created by hardhat.
 > ### casino-ethereum
 An implmentation of a smart contract for a number betting system.
+
+## Requirments
+```
+react
+react-native
+truffle
+hardhat
+```
 
 ## Install
 
