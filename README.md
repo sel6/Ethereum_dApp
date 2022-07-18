@@ -1,8 +1,8 @@
 # Ethereum_dApp
 
-<p
-img_url="./ethereum.webp"
-</p
+<p align="center">
+     <img src="https://github.com/sel6/Ethereum_dApp/blob/main/ethereum.webp">
+</p>
 
 **Table of content**
 
