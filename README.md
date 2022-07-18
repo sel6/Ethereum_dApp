@@ -5,7 +5,7 @@
 - [Overview](#overview)
 - [Install](#install)
 - [Introduction](#Introduction)
-- [Files](#Files)
+- [Folders](#Folders)
 
 ## Overview
 
