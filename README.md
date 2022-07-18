@@ -7,9 +7,9 @@
 **Table of content**
 
 - [Objective](#objective)
+- [Folders](#folders)
 - [Install](#install)
-- [Introduction](#Introduction)
-- [Folders](#Folders)
+- [Author](#author)
 
 ## Objective
 
