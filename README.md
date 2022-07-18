@@ -8,7 +8,7 @@
 
 - [Objective](#objective)
 - [Folders](#folders)
-- [Requirments)(#requirments)
+- [Requirments](#requirments)
 - [Install](#install)
 - [Author](#author)
 
